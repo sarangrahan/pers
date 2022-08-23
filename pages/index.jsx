@@ -26,7 +26,7 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-▫ Noobie <br>
+▫ Noobie 
 ▫ Android > Frontend Dev
                 </p>
               </div>
