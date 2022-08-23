@@ -26,8 +26,8 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-▫ Noobie 
-▫ Android > Frontend Dev
+▫ Noobie <br>
+▫ Android - Frontend Dev
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
